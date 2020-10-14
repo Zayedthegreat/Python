@@ -1,0 +1,106 @@
+WEBVTT
+
+00:00.670 --> 00:01.880
+Welcome back everyone.
+
+00:02.020 --> 00:09.550
+So I mentioned in the last lecture run a download and a contest to go to Anaconda dot org and go to
+
+00:09.550 --> 00:10.740
+download.
+
+00:11.290 --> 00:19.180
+It's going to bring up more of these windows and you can just download Anaconda download the latest
+
+00:19.180 --> 00:19.690
+version.
+
+00:19.690 --> 00:24.540
+So right now it's 3.6 and install that version into your computer.
+
+00:24.610 --> 00:25.190
+Make a note.
+
+00:25.210 --> 00:29.440
+If it's not offering you the correct time make sure you download the correct type whether you have a
+
+00:29.440 --> 00:32.680
+32 bit or 64 bit system.
+
+00:32.710 --> 00:34.050
+It's the same for Mac.
+
+00:34.060 --> 00:37.380
+Download the correct version of Anaconda.
+
+00:37.510 --> 00:41.920
+We actually don't use very much in Anaconda when we actually work on the notebooks we're just going
+
+00:41.920 --> 00:43.930
+to open in Jupiter.
+
+00:43.940 --> 00:47.480
+So this is the logo of what you're going to open.
+
+00:47.710 --> 00:55.650
+Like if I go to my Start Menu I click in there and then I have Jupiter notebook and this is what I open.
+
+00:56.060 --> 01:03.110
+And from here once this opens it pulls up a terminal like this.
+
+01:03.110 --> 01:14.420
+And the first time it it opens up it may ask you to cut this your all out and paste it in your browser.
+
+01:14.630 --> 01:22.220
+And when you do so what it does is it allows it to log in with that tokin and then initialises Jupiter
+
+01:22.520 --> 01:31.920
+because after you use this one time every time you open anaconda or rather Jupiter it's going to open
+
+01:31.920 --> 01:33.110
+in your browser.
+
+01:33.330 --> 01:39.300
+Just give it a minute it's going open on mine and then you can see all my various files and I would
+
+01:39.300 --> 01:49.550
+go to desktop and read the full stack and you see I'm going deeper and deeper into one of our courses
+
+01:49.820 --> 01:52.430
+and then deep learning.
+
+01:52.520 --> 01:58.680
+Let's just look at a little interpellation and I click on that.
+
+01:59.120 --> 02:05.960
+And this is actually how you run things in the Jupiter notebook and the way you execute as you click
+
+02:05.960 --> 02:13.220
+within the cell you hit a control and then enter and then you see this Asterix it means it's running
+
+02:13.220 --> 02:14.540
+the code right now.
+
+02:15.020 --> 02:19.970
+And when it's complete if there was an output it would have given an output.
+
+02:19.970 --> 02:26.960
+This is just importing stuff importing side pie pie and all these things.
+
+02:26.960 --> 02:31.150
+So at this point it's not actually doing anything but that's how Jupiter is run.
+
+02:31.220 --> 02:36.470
+So all you have to do is install Jupiter and I would ask for you to cut and paste that tokin go ahead
+
+02:36.740 --> 02:38.450
+and cut and paste that token.
+
+02:38.830 --> 02:39.390
+OK.
+
+02:40.580 --> 02:41.870
+I'll see you guys next lecture.
+
+02:41.870 --> 02:42.290
+Thanks.

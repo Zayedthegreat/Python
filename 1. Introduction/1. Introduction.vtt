@@ -1,0 +1,82 @@
+WEBVTT
+
+00:00.930 --> 00:10.260
+Hello everyone and welcome to the Python full stack of course with a I every section in this core series
+
+00:10.260 --> 00:12.280
+is going to begin with a slideshow.
+
+00:12.570 --> 00:19.800
+In that slide show we're going to go over a brief overview of what's going to be contained in that section
+
+00:20.550 --> 00:25.110
+before we started the course let's do the same for the entire course.
+
+00:25.140 --> 00:28.640
+So in our course we're going to have three components to it.
+
+00:28.680 --> 00:40.210
+Primarily Front-End Python and data science in front and we're going to cover HVM owl then CSSA then
+
+00:40.210 --> 00:48.160
+bootstrap java script and the document object module which is the DOM in there we're also going to be
+
+00:48.160 --> 00:52.740
+covering J queery after we take care of the front end.
+
+00:52.830 --> 00:54.650
+We're going to start working on Python.
+
+00:54.690 --> 00:59.820
+In Python we're going to learn about methods and functions all the typical programming stuff that you've
+
+00:59.820 --> 01:04.920
+heard about object oriented programming and decorators.
+
+01:05.070 --> 01:13.320
+And finally we're going to approach the data science section one of our bigger projects of the front
+
+01:13.320 --> 01:17.490
+end section is the creation of a Web site that's responsive.
+
+01:17.490 --> 01:20.010
+So that'll be our front end project.
+
+01:20.010 --> 01:26.520
+We're also going to make a game in Python we're going to be doing lots of exercises some advanced some
+
+01:26.520 --> 01:32.940
+simple in data science we're actually going to go through a great deal of data science starting from
+
+01:32.940 --> 01:41.400
+statistics all the way through deep learning in AI.
+
+01:41.770 --> 01:49.590
+There's no real point to going over every lecture right now because there's so many lectures to go through
+
+01:50.040 --> 01:53.390
+but we will approach each of these by section.
+
+01:53.490 --> 01:58.800
+So every section we're going proceeded with the slide show will give an overview of exactly what's going
+
+01:58.800 --> 02:01.580
+to be contained in that section.
+
+02:01.590 --> 02:06.950
+This is just giving you an overview of what's contained in the entire course.
+
+02:06.960 --> 02:16.630
+Our first sections after this are going to pertain to the installation of software in order to do programming.
+
+02:16.650 --> 02:21.850
+So we're going to start with installing Python then Anaconda.
+
+02:22.200 --> 02:25.810
+And after that we're going to work on installing all our code editors.
+
+02:26.010 --> 02:28.590
+So I will see you in the next lectures.
+
+02:28.590 --> 02:29.520
+Thanks everyone.
